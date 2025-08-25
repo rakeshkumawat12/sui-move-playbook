@@ -35,7 +35,7 @@ Check if it’s installed properly:
 sui --help
 ```
 
-###2. Setup Your First Move Project
+### 2. Setup Your First Move Project
 
 Create a working folder for your Move tutorials:
 
