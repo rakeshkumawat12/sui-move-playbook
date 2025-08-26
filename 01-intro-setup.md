@@ -46,7 +46,7 @@ cd move-tut
 
 Initialize a new Move project with Sui:
 ```bash
-sui move <folder-name>
+sui move new <folder-name>
 ```
 Boom! 🎉 You’ve got your first Move project setup.
 
